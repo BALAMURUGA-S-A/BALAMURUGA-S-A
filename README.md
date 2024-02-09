@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **WEB DEVELOPMENT**
 
-- 💬 Ask me about **react,javascript,bootstrap,postgresql,Mysql,trpc,typescript basics,prisma schemas**
+- 💬 Ask me about **react,javascript,bootstrap,Mysql,trpc,typescript basics,prisma schemas**
 
 - 📫 How to reach me **saarunbala111@gmail.com**
 
